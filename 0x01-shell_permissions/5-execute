@@ -1,4 +1,5 @@
 #!/bin/bash
-chmod u+x hello
+chmod 764 hello
+
 
 
