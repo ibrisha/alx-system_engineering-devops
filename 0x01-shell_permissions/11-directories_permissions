@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod -R -type d ugo+x .
+chmod -R ugo+x .
 
 
