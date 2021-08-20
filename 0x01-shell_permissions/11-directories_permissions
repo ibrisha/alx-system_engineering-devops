@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod ugo+x $(find /path/to/base/dir -type d)
+chmod -R ugo+x .
 
 
